@@ -30,18 +30,6 @@ I am a high-energy and deeply passionate Software Engineer driven by a love for 
 
 **Tools & Platforms:** Agentic AI Development, Claude Code, Git, GitHub/GitLab, Docker, PostgreSQL, MySQL, MongoDB
 
-### 🚀 Featured Projects
-
-**[Conductor](https://github.com/jovanstos/conductor)**
-
-- Built a local-first desktop application utilizing Rust and Tauri to visually orchestrate multi-agent AI workflows.
-- Ensured zero-cloud dependency and secure local API key management.
-
-**[Portfolio Website](https://jovanstosic.dev)**
-
-- Architected a monolithic full-stack application serving as a centralized hub for multiple embedded live projects and microservices.
-- Designed and implemented a robust Express.js REST API to seamlessly connect disparate services and backends.
-
 <div align="center">
   <img src="firework.gif" alt="Firework Gif" width="40%"/>
 </div>
