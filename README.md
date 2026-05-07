@@ -26,7 +26,7 @@ I am a high-energy and deeply passionate Software Engineer driven by a love for 
 
 **Languages:** Python, JavaScript/TypeScript, Java, SQL, HTML, CSS, C++
 
-**Frameworks & Libraries:** React, Vue, Spring Boot, Electron.js, Pandas, TensorFlow, Hugging Face, Scikit-Learn
+**Frameworks & Libraries:** React, Vue, Spring Boot, Electron.js, Pandas, PyTorch, TensorFlow, Hugging Face, Scikit-Learn
 
 **Tools & Platforms:** Agentic AI Development, Claude Code, Git, GitHub/GitLab, Docker, PostgreSQL, MySQL, MongoDB
 
